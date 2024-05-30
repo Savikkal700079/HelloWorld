@@ -7,3 +7,7 @@
 # HelloWorld here is an example
 --Python
 print("Hello World")
+Numbered points
+1.Point
+2.Line Segment
+3.Circle
