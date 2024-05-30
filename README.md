@@ -20,3 +20,12 @@ GIT NOTES
 * Modify README .md(commit)
 * Add Simple.py(commit)
 * Create a new branch . step1 or version1
+  # version control
+  * CVS
+  * SVN
+  * GIT
+  * Mercurial
+  * Perforce
+  * Clearcase
+  * First 4 are open source.
+  * git-sem.org for 
