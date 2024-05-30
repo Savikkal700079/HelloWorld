@@ -28,4 +28,4 @@ GIT NOTES
   * Perforce
   * Clearcase
   * First 4 are open source.
-  * git-sem.org for 
+  * git-sem.org for learning git
