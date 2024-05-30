@@ -11,3 +11,12 @@ Numbered points
 1.Point
 2.Line Segment
 3.Circle
+
+
+GIT NOTES
+* Create a Github account
+* Create a new repository hello world
+* Add README file into the repository(Commit)
+* Modify README .md(commit)
+* Add Simple.py(commit)
+* Create a new branch . step1 or version1
